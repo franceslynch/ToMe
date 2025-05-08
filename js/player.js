@@ -8,7 +8,7 @@ let song;
 function preload() {
   cdplayer = loadImage("img/cdplayer.png");
   cd = loadImage("img/cd.png");
-  Horge = loadFont("font/Horge.otf");
+  Horge = loadFont("font/Relationship.ttf");
   Other = loadFont("font/ZTFormom.otf");
   song = loadSound("audio/song.mp3");
 }
@@ -24,9 +24,9 @@ function draw() {
   background(193, 208, 181);
   
   fill('white');
-  textSize(100);
+  textSize(120);
   textFont(Horge);
-  text("Hover to Play", width / 2, height / 2 + 600);
+  text("hover to play", width / 2, height / 2 + 575);
 
   let cdX = width / 2;
   let cdY = height / 2;
