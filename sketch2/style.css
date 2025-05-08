@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#next-page-link {
+  position: absolute;
+  left: 90.5%;
+  top: 84%;
+}
