@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#next-page-link1 {
+  position: absolute;
+  left: 90.5%;
+  top: 85%;
+}
+
+#next-page-link2 {
+  position: absolute;
+  left: 90.5%;
+  top: 84%;
+}
+
+#next-page-link3 {
+  position: absolute;
+  left: 91%;
+  top: 87.5%;
+}
+
+#next-page-link4 {
+  position: absolute;
+  left: 89.5%;
+  top: 80%;
+}
