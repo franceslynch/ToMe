@@ -41,7 +41,7 @@ function draw() {
     spinning = true;
 
     fill('white');
-    textSize(50);
+    textSize(55);
     textFont(Other);
     text('"to me" by alina baraz', width / 2, height / 3.5);
   } else {
