@@ -8,7 +8,7 @@ let lyrics = [
   "can we do it over?",
   "and then one day",
   "it just came to me",
-  "an we do it over?"
+  "can we do it over?"
 ];
 
 let colors = [
